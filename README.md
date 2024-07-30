@@ -6,7 +6,7 @@ Create an react application (V16+) that allows users to create and manage accoun
 ## Installation
 1. Clone the repository to your local machine.
 2. Open terminal and move to the frontend project directory.
-3. Run this command to start frontend server:
+3. Run this command to start frontend client:
 ```bash
 npm start
 ```
